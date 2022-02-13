@@ -1,0 +1,5 @@
+This file's sole purpose is to be a dummy for the first commit and prove that my git skills are not limited just to my local machine.
+P.S. Created in Vim, the best text editor (not and IDE) in the Universe
+P.S.S. I am not using Arch btw  (Pop_OS! rules supreme but I will try Arch after getting junior grade job)
+P.S.S.S. If you are reading this file for some reason, congrats! I am proud that someone in the world has indeed looked at my github.
+P.S.S.S.S. I hope I do get a job even as trainee this month 
